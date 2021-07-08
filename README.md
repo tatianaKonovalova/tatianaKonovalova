@@ -1,8 +1,8 @@
 # Hi there 👋
 
-##I'm a beginner Front End Developer. 
+## I'm a beginner Front End Developer. 
 
-###What I Use:
+### What I Use:
 HTML, CSS, SASS/SCSS, JavaScript
 
 <!--
