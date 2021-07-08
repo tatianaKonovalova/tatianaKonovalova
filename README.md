@@ -3,7 +3,7 @@
 ## I'm a beginner Front End Developer. 
 
 ### What I Use:
-HTML, CSS, SASS/SCSS, JavaScript
+![HTML](https://camo.githubusercontent.com/f7cbfd1c8cdea2c8d51f0a718e1347188c46263a0d6e20874e0d7b459d2d31eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d626c61636b3f7374796c653d666c6174266c6f676f3d48544d4c35), CSS, SASS/SCSS, JavaScript
 
 <!--
 **tatianaKonovalova/tatianaKonovalova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
