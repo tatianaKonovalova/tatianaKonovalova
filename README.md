@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+
+##I'm a beginner Front End Developer. 
+
+###What I Use:
+HTML, CSS, SASS/SCSS, JavaScript
 
 <!--
 **tatianaKonovalova/tatianaKonovalova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
